@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulerBot.Api", "SchedulerBot.Api\SchedulerBot.Api.csproj", "{9E9DBC10-5B4E-46C2-BB76-4C81F6E25E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulerBot.Api.Tests", "SchedulerBot.Api.Tests\SchedulerBot.Api.Tests.csproj", "{433B1A6A-8488-4F8F-94B7-AF9CA52322F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E9DBC10-5B4E-46C2-BB76-4C81F6E25E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9DBC10-5B4E-46C2-BB76-4C81F6E25E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9DBC10-5B4E-46C2-BB76-4C81F6E25E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9DBC10-5B4E-46C2-BB76-4C81F6E25E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{433B1A6A-8488-4F8F-94B7-AF9CA52322F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433B1A6A-8488-4F8F-94B7-AF9CA52322F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433B1A6A-8488-4F8F-94B7-AF9CA52322F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433B1A6A-8488-4F8F-94B7-AF9CA52322F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA1E58C9-76D2-450E-A2EA-1D8FA34D33E0}
+	EndGlobalSection
+EndGlobal
