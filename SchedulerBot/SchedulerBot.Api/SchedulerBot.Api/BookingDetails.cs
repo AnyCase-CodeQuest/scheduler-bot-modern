@@ -3,8 +3,10 @@
 //
 // Generated with Bot Builder V4 SDK Template for Visual Studio CoreBot v4.10.3
 
-namespace SchedulerBot.Api {
-    public class BookingDetails {
+namespace SchedulerBot.Api
+{
+    public class BookingDetails
+    {
         public string Destination { get; set; }
 
         public string Origin { get; set; }

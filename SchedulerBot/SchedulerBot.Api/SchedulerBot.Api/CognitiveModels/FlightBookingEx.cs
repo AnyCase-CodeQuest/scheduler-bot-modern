@@ -3,9 +3,11 @@
 
 using System.Linq;
 
-namespace SchedulerBot.Api.CognitiveModels {
+namespace SchedulerBot.Api.CognitiveModels
+{
     // Extends the partial FlightBooking class with methods and properties that simplify accessing entities in the luis results
-    public partial class FlightBooking {
+    public partial class FlightBooking
+    {
         public (string From, string Airport) FromEntities
         {
             get
